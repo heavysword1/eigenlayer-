@@ -3,7 +3,7 @@
   "name":"dmski",
   "website":"Moon-nodes.com",
   "description":"dedicated to validating the blockchain",
-  "logo":https://goerli-operator-metadata.s3.amazonaws.com/eigenlayer.png",
+  "logo":"https://goerli-operator-metadata.s3.amazonaws.com/eigenlayer.png",
   "twitter":"https://twitter.com/dmski100"
 }
 
